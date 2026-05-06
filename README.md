@@ -49,11 +49,22 @@ Econometrics project/
 
 ## 🚀 How to Run the Project
 
-1. Clone the repository  
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/repo-name.git
+   ```
+
 2. Install dependencies:
-pip install -r requirements.txt
-3. Open the notebook: notebooks/Project1_TimeSeries.ipynb
-4. Run all cells
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. Open the notebook:
+   ```
+   notebooks/Project1_TimeSeries.ipynb
+   ```
+
+4. Run all cells from top to bottom to reproduce the analysis.
 
 ---
 
